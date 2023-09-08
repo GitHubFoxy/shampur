@@ -1,13 +1,11 @@
-import Gallery from '@/components/Gallery'
-import Menu from '@/components/Menu'
-import Image from 'next/image'
+import Gallery from "@/components/Gallery";
+import Menu from "@/components/Menu";
 
 export default function Home() {
   return (
-  <>
-    <Gallery /> 
-    <Menu />
-    
-  </>
-  )
+    <>
+      <Gallery />
+      <Menu />
+    </>
+  );
 }

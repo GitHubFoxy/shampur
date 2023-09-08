@@ -15,7 +15,6 @@ export default function Menu() {
     "овощи",
     "салаты",
   ];
-
   let [active, setActive] = useState(0);
 
   return (

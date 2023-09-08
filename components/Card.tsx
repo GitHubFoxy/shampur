@@ -1,3 +1,7 @@
 export default function Card() {
-  return <div className="flex">CARD</div>;
+  return (
+    <div className="grid">
+      <div>map for each element?</div>
+    </div>
+  );
 }
